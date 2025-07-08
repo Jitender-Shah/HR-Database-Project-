@@ -32,15 +32,6 @@ This project is a **relational database design for an HR management system**. It
 
 ---
 
-## Suggested Project Names
-
-* `hr-database-project`
-* `hrms-schema`
-* `employee-management-db`
-* `workforce-db`
-* `global-hr-schema`
-
----
 
 
 
